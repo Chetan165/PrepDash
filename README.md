@@ -1,6 +1,6 @@
-###PrepDash : All in one Platform for Placement
+### repDash : All in one Platform for Placement
 
---features:
+- features:
   * Interviews Scheduling
   * View Company Questions/topics
   * Practice Aptitude questions
